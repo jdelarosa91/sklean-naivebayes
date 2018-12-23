@@ -1,7 +1,6 @@
 
-# Trabajo 1: Clasificación con Naive Bayes
+# Clasificación con Naive Bayes
 
-**Mediante este trabajo se pretende que pongas en práctica la creación de modelos basados en el clasificador Naive Bayes. El objetivo es que comprendas de forma práctica con un problema determinado los pasos que hay que realizar para construir un clasificador Naive Bayes que infiera la clase más probable de dos eventos.**
 
 ## Importación de librerías
 
